@@ -1,9 +1,9 @@
 h1{
-  color: aqua;
+  color: rgb(0, 153, 255);
   align-content: center;
   font-family: 'Times New Roman', Times, serif;
 }
 p{
-  color: red;
+  color: rgb(189, 16, 16);
   font-family: 'Times New Roman', Times, serif;
 }
