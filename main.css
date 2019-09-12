@@ -7,4 +7,13 @@ p{
   font-family: 'Times New Roman', Times, serif;
   margin-left: 50px;
   margin-right: 50px;
+  color: rgb(66, 155, 155);
+  background-color: white;
+}
+html{
+  background-color: #33FFE8;
+  opacity: 50;
+}
+#img{
+  opacity: 50;
 }
