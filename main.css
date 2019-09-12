@@ -1,9 +1,8 @@
 h1{
   color: rgb(0, 153, 255);
-  align-content: center;
+  text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
 p{
-  color: rgb(189, 16, 16);
   font-family: 'Times New Roman', Times, serif;
 }
