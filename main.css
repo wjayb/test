@@ -17,3 +17,11 @@ html{
 #img{
   opacity: 50;
 }
+.last{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.final{
+    font-size: 40px;
+    font-family: serif;
+}
